@@ -32,10 +32,9 @@ h1 {
   color: #25a2c3;
 }
 header {
-  background-position: bottom;
+  background-position: bottom center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: gray;
   background-image: url("traccia/Esercizio/images/banner.jpg");
 }
 #logo {
@@ -64,8 +63,8 @@ main {
   background-color: white;
 }
 .circle {
+  width: 70%;
   border-radius: 50%;
-  margin: auto;
 }
 .box {
   margin: 2em;
